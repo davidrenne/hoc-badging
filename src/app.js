@@ -36,7 +36,6 @@ export default class App extends React.Component {
           } else {
             this.setState({Text: 'Menu goes here: '+Date.now() });
           }
-
         }}/><span>{this.state.Text}</span>
         <TextButtonBadged ref='textbutton' text="Click me" />
       </div>);
