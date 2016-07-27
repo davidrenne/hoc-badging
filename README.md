@@ -3,7 +3,7 @@
 This repository was created to provide an example of React High Order Components (HOC).
 
 Slides from presentation
-https://docs.google.com/presentation/d/1C7UmVLM9U9UfhBbmBHK7CzqrPdwx4qiFVy0VolMQFew/edit?usp=sharing
+http://snack.to/b7cm4j5p
 
 ```
 ## clone or fork it then
